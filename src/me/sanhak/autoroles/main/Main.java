@@ -4,10 +4,10 @@ import javax.security.auth.login.LoginException;
 
 import me.sanhak.autoroles.methods.Methods;
 
-public class Main { //Start
+public class Main {  //Start
 
 	public static void main(String[] args) throws LoginException {
-		Methods.Start();
+	     Methods.Start();
 	}
 	
-} //End
+}  //End
