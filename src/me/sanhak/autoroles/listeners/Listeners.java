@@ -9,7 +9,7 @@ public class Listeners extends ListenerAdapter { //Start
     @Override
     public void onGuildMemberJoin(GuildMemberJoinEvent e) {	
 	//Roles 
-	Role member = e.getJDA().getRoleById("989582280383148074"); 
+	Role member = e.getJDA().getRoleById("Role-ID"); 
 	Role bot = e.getJDA().getRoleById("Role-ID");
 		
 	//Check if the user is a bot or a player
