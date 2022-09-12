@@ -1,5 +1,5 @@
 # JDA-AutoRoles
-Granting members the role of a bot and the role of a member after checking whether the member is a bot or not
+Giving members the role of a bot and the role of a member after checking whether the member is a bot or not
 
 
 
